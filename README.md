@@ -1,5 +1,5 @@
 # Usefull Shortcuts for IOS
-
+>Please comment on other shortcuts that would be useful, so that i can make them ;)
 ## App Lock (Simple)
 ### Shortcut Link:
 >Install Shortcut and follow instructions
