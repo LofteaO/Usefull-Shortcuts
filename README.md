@@ -18,7 +18,9 @@
      
 ![](https://github.com/LofteaO/Usefull-Shortcuts/blob/aec4acf43bdc51e3ac2d3b3a0c865fb59846a3b9/Images/IMG_6838.PNG)
 
-- 4. Find the Tex box that has a password in it and replace it with your desired password e.g. 1225, 1234 or 21033 ![](https://github.com/LofteaO/Usefull-Shortcuts/blob/aec4acf43bdc51e3ac2d3b3a0c865fb59846a3b9/Images/IMG_6839.PNG)
+- 4. Find the Tex box that has a password in it and replace it with your desired password e.g. 1225, 1234 or 21033
+
+      ![](https://github.com/LofteaO/Usefull-Shortcuts/blob/aec4acf43bdc51e3ac2d3b3a0c865fb59846a3b9/Images/IMG_6839.PNG)
      
 -  5. Tap on the shortcut name.
       
@@ -35,3 +37,6 @@
 - 8. Now tap on the icon of the shortcut and when the option to take a photo or choose a photo appears download the icon for the app you want to lock and choose it as the icon.
      
 ![](https://github.com/LofteaO/Usefull-Shortcuts/blob/aec4acf43bdc51e3ac2d3b3a0c865fb59846a3b9/Images/IMG_6842.PNG)
+
+### Result:
+
