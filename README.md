@@ -31,4 +31,4 @@
   ![](https://github.com/LofteaO/Usefull-Shortcuts/blob/aec4acf43bdc51e3ac2d3b3a0c865fb59846a3b9/Images/IMG_6842.PNG)
 
 ### Result:
-  ![](https://github.com/LofteaO/Usefull-Shortcuts/blob/aec4acf43bdc51e3ac2d3b3a0c865fb59846a3b9/Images/image0 (1).png
+  [![](https://github.com/LofteaO/Usefull-Shortcuts/blob/aec4acf43bdc51e3ac2d3b3a0c865fb59846a3b9/Images/image0 (1).png](https://github.com/LofteaO/Usefull-Shortcuts/blob/a4e6ac374fe9b7bea3f16c8d74312bbffe8979c1/Images/image0%20(1).png)https://github.com/LofteaO/Usefull-Shortcuts/blob/a4e6ac374fe9b7bea3f16c8d74312bbffe8979c1/Images/image0%20(1).png
